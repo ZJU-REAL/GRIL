@@ -3,7 +3,7 @@ Pause or Fabricate? Training Language Models for Grounded Reasoning
 </h1>
 <div align='center' style="font-size:18px;">
 <p>
-    <a href="#">
+    <a href="https://arxiv.org/abs/2604.19656">
       <img src="https://img.shields.io/badge/Paper-arxiv-blue" alt="Paper"/>
     </a>
 </p>
