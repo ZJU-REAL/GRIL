@@ -106,13 +106,14 @@ A penalty λ discourages trivially requesting clarification on well-formed input
 If you find this work useful, please consider citing:
  
 ```bibtex
-@misc{qiu2026pauseorfabricate,
-      title={Pause or Fabricate? Training Language Models for Grounded Reasoning},
-      author={Yiwen Qiu and Linjuan Wu and Yizhou Liu and Yuchen Yan and Xu Tan and Jin Ma and Yao Hu and Daoxin Zhang and Wenqi Zhang and Weiming Lu and Jun Xiao and Yongliang Shen},
+@misc{qiu2026pausefabricatetraininglanguage,
+      title={Pause or Fabricate? Training Language Models for Grounded Reasoning}, 
+      author={Yiwen Qiu and Linjuan Wu and Yizhou Liu and Yuchen Yan and Jin Ma and Xu Tan and Yao Hu and Daoxin Zhang and Wenqi Zhang and Weiming Lu and Jun Xiao and Yongliang Shen},
       year={2026},
-      eprint={2604.13822},
+      eprint={2604.19656},
       archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.19656}, 
 }
 ```
  
